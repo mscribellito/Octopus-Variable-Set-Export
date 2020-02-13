@@ -46,6 +46,7 @@ function GetVariableSet {
         }
 
         return $export
+        
     }
 }
 
